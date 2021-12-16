@@ -3,4 +3,4 @@
 
 RESTful Shopping Cart Service with JavaScript and PHP
 
-<img width="721" alt="Cart_Demo" src="https://user-images.githubusercontent.com/58120773/146162852-51e6fb41-0f43-4188-a6c4-ef58aed3ad50.png">
+<img width="944" alt="Cart_Demo" src="https://user-images.githubusercontent.com/58120773/146370200-57b25e9b-fa9c-4005-b630-7eae7db3f375.png">
