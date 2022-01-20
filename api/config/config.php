@@ -8,7 +8,7 @@ include "models/productsModel.php";
 include "views/JsonView.php";
 include "models/cartModel.php";
 
-define("DBHost", "34sussq52vhc.eu-west-2.psdb.cloud");
+define("DBHost", "gj7ccywfb6bh.eu-west-3.psdb.cloud");
 define("DBName", "shoppingcartdemo");
-define("DBPassword", "pscale_pw_OcTfPykO9_Jc5OY7OAiWQIfFKYFK1RDEbBP4QXUz3W8");
-define("DBUsername", "5tmpsnh1nil9");
+define("DBPassword", "pscale_pw_XRpzaBAc1SkPGRVOsHKs-RNE2f6MRhYbmDGRvxkFAno");
+define("DBUsername", "sdweho59vpbc");
