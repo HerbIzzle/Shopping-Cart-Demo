@@ -10,6 +10,6 @@ include "models/cartModel.php";
 
 $cleardb_url = parse_url(getenv("CLEAR_DATABASE_URL"));
 define("DBHost", $cleardb_url["host"]);
-define("DBName", $cleardb_url["path"]);
+define("DBName", substr($cleardb_url["path"],1));
 define("DBPassword", $cleardb_url["pass"]);
 define("DBUsername", $cleardb_url["user"]);
