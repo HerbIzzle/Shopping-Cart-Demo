@@ -8,7 +8,7 @@ include "models/productsModel.php";
 include "views/JsonView.php";
 include "models/cartModel.php";
 
-$cleardb_url = parse_url(getenv("CLEAR_DATABASE_URL"));
+$cleardb_url = parse_url(getenv("CLEARDB_DATABASE_URL"));
 define("DBHost", $cleardb_url["host"]);
 define("DBName", substr($cleardb_url["path"],1));
 define("DBPassword", $cleardb_url["pass"]);
