@@ -1,6 +1,21 @@
 <h1>Shopping-Cart-Demo</h1>
 
 
-RESTful Shopping Cart Service with JavaScript and PHP
 
-<img width="687" alt="Cart_Demo" src="https://user-images.githubusercontent.com/58120773/146370519-b06d968d-4122-439a-b472-c84e73696b0f.png">
+A full stack Shopping Cart Project written in JavaScript and PHP, using OOP principles and implementing a MVC architecture in the Front & Backend.
+
+Technologies Frontend : 
+ <li> HTML, CSS Flexbox </li>
+ <li> JavaScript , JQuery </li>
+ 
+ <br>
+ 
+ Technologies Backend :
+ <li> PHP, MySQL </li>
+  
+  
+ <br>
+
+  Link to the Demo : https://dev-bert-shopping-cart-demo.herokuapp.com/
+
+
